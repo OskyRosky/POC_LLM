@@ -36,6 +36,9 @@ OpenWeb UI fue seleccionado por su facilidad de uso y compatibilidad con modelos
 
 - Integración directa con Ollama.
 
+![Interfaz Web](./openwebui-llama3-local-llm-webbrowser-hello.png)
+
+
 Sin embargo, existen otras interfaces o entornos visuales compatibles o similares, que pueden ser consideradas para escalar el proyecto:
 
 LM Studio: interfaz gráfica para cargar y probar LLMs de manera local, ideal para pruebas rápidas.
@@ -61,6 +64,8 @@ BerriAI Playground: útil para prototipado de flujos de chat y pruebas de prompt
 ##  5. Modelos de Lenguaje en Ollama: 10 Opciones Recomendadas
 
 Además de Llama3, Ollama permite cargar fácilmente modelos listos para usar o personalizados. A continuación, se presentan 10 modelos compatibles, junto con sus características destacadas:
+
+![Modelos de Ollama](./Ollama_models.png)
 
 Llama3
 modelo de Meta. Muy balanceado en precisión, rapidez y adaptabilidad. Recomendado para tareas generales.
