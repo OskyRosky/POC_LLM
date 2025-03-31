@@ -36,8 +36,7 @@ OpenWeb UI fue seleccionado por su facilidad de uso y compatibilidad con modelos
 
 - Integración directa con Ollama.
 
-![Interfaz Web](./openwebui-llama3-local-llm-webbrowser-hello.png)
-
+![Interfaz Web](./openwebui-llama3-local-llm-webbrowser-hello.webp)
 
 Sin embargo, existen otras interfaces o entornos visuales compatibles o similares, que pueden ser consideradas para escalar el proyecto:
 
